@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@colorfuldots/svelteit": "^1.0.0-alpha.7"
+  }
+}
